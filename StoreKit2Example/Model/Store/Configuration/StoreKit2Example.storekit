@@ -1,0 +1,57 @@
+{
+  "identifier" : "D07142D5",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "EA98DDA3",
+      "localizations" : [
+
+      ],
+      "name" : "test.com.storekit2example.auto.renew.subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "30",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "E0FEBC38",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Yearly",
+              "displayName" : "Yearly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "訂閱一年",
+              "displayName" : "訂閱一年",
+              "locale" : "zh_TW"
+            }
+          ],
+          "productID" : "test.com.storekit2example.auto.renew.subscription.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "訂閱一年",
+          "subscriptionGroupID" : "EA98DDA3",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
